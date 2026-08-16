@@ -13,7 +13,7 @@ Una aplicación web simple para crear, listar y eliminar notas con una interfaz 
 ## Estructura del Proyecto
 
 ```
-maquetacion proyecto lista/
+list app/
 ├── frontend/
 │   └── index.html          # Archivo HTML principal
 ├── backend/
@@ -31,7 +31,7 @@ maquetacion proyecto lista/
 ### Opción 1: Usar Python (Recomendado)
 
 ```bash
-cd "maquetacion proyecto lista"
+cd "list-app"
 python3 -m http.server 8000
 ```
 
@@ -42,7 +42,7 @@ Luego abre tu navegador en: `http://localhost:8000/frontend/`
 Si tienes Node.js instalado:
 
 ```bash
-cd "maquetacion proyecto lista"
+cd "list-app"
 npx http-server -p 8000
 ```
 
