@@ -1,0 +1,12 @@
+{
+  "name": "maquetacion-proyecto-jose",
+  "version": "1.0.0",
+  "description": "Aplicación web para gestionar notas",
+  "main": "frontend/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [],
+  "type": "module"
+}
