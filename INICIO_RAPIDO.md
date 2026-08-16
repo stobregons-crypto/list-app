@@ -14,7 +14,7 @@ Luego abre en tu navegador: **http://localhost:8000/frontend/**
 ### Opción 2: Node.js
 
 ```bash
-cd "list-app"
+cd "list-app" 
 npx http-server -p 8000
 ```
 
