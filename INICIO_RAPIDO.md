@@ -5,7 +5,7 @@
 ### Opción 1: Python (Recomendado - Sin instalación)
 
 ```bash
-cd "maquetacion proyecto lista"
+cd "list-app"
 python3 -m http.server 8000
 ```
 
@@ -14,7 +14,7 @@ Luego abre en tu navegador: **http://localhost:8000/frontend/**
 ### Opción 2: Node.js
 
 ```bash
-cd "maquetacion proyecto lista"
+cd "list-app"
 npx http-server -p 8000
 ```
 
